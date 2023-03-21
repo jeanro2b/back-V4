@@ -1,0 +1,436 @@
+{
+ "tree": [
+  {
+   "categoryType": "other",
+   "emergency": false,
+   "going_coming": false,
+   "icon": "d6ceaecb-29d1-415a-886d-2965b5acbaf8",
+   "id": "1469",
+   "name": {
+    "AR": "عني",
+    "EN": "About me",
+    "FR": "À propos de moi",
+    "PT": "Sobre me"
+   },
+   "order": 1,
+   "priority": 3,
+   "priorityName": "normal",
+   "slug": "À propos de moi",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "medical",
+   "emergency": false,
+   "going_coming": true,
+   "icon": "b96eec56-3fb8-41cd-9e2b-c08248496077",
+   "id": "1475",
+   "name": {
+    "AR": "لا أستطيع التنفس",
+    "EN": "I can't breathe",
+    "FR": "Je respire mal",
+    "PT": "não consigo respirar"
+   },
+   "order": 1,
+   "parentId": "1469",
+   "priority": 1,
+   "priorityName": "emergency",
+   "slug": "Je respire mal",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "medical",
+   "emergency": false,
+   "going_coming": true,
+   "icon": "746508a8-7ef4-4cd9-b892-387cc13062c6",
+   "id": "1476",
+   "name": {
+    "EN": "I am in pain",
+    "FR": "J'ai mal",
+    "PT": "Eu estou com dor"
+   },
+   "order": 2,
+   "parentId": "1469",
+   "priority": 1,
+   "priorityName": "emergency",
+   "slug": "J'ai mal",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "medical",
+   "emergency": false,
+   "going_coming": true,
+   "icon": "ac2b95ac-5304-41c1-b2e9-677e275e3c54",
+   "id": "1477",
+   "name": {
+    "EN": "I'm in pain",
+    "FR": "Je saigne",
+    "PT": "Eu estou sangrando"
+   },
+   "order": 3,
+   "parentId": "1469",
+   "priority": 1,
+   "priorityName": "emergency",
+   "slug": "Je saigne",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "medical",
+   "emergency": false,
+   "going_coming": true,
+   "icon": "b48712d8-b286-4f14-897f-ca613a1e5add",
+   "id": "1478",
+   "name": {
+    "AR": "تحتاج إلى الامتصاص",
+    "EN": "Need to be aspirated",
+    "FR": "Besoin d'être aspiré",
+    "PT": "Precisa ser sugado"
+   },
+   "order": 4,
+   "parentId": "1469",
+   "priority": 1,
+   "priorityName": "emergency",
+   "slug": "Besoin d'être aspiré",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "medical",
+   "emergency": false,
+   "going_coming": true,
+   "icon": "d599e5f0-6a5a-4c0c-ba4f-7767ddd8166f",
+   "id": "1480",
+   "name": {
+    "AR": "غثيان",
+    "EN": "Nausea",
+    "FR": "Nausées",
+    "PT": "Náusea"
+   },
+   "order": 6,
+   "parentId": "1469",
+   "priority": 2,
+   "priorityName": "high",
+   "slug": "Nausée",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "medical",
+   "emergency": false,
+   "going_coming": true,
+   "icon": "b372bcd8-645a-4062-aada-ab8f2fae6763",
+   "id": "1479",
+   "name": {
+    "AR": "التقيؤ",
+    "EN": "Vomiting",
+    "FR": "Vomissements",
+    "PT": "vómitos"
+   },
+   "order": 5,
+   "parentId": "1469",
+   "priority": 1,
+   "priorityName": "emergency",
+   "slug": "Vomissements",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "paramedical",
+   "emergency": false,
+   "going_coming": false,
+   "icon": "169641a1-266c-4ae3-968f-9bdb9da88818",
+   "id": "1481",
+   "name": {
+    "AR": "الذهاب للحمام",
+    "EN": "Go to the toilet",
+    "FR": "Aller aux toilettes",
+    "PT": "Vá ao banheiro"
+   },
+   "order": 7,
+   "parentId": "1469",
+   "priority": 3,
+   "priorityName": "normal",
+   "slug": "Aller aux toilettes",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "other",
+   "emergency": false,
+   "going_coming": false,
+   "icon": "c832d0be-1d50-4831-bca0-73eec82c6db3",
+   "id": "1482",
+   "name": {
+    "AR": "آخر",
+    "EN": "Other",
+    "FR": "Autre",
+    "PT": "Outro"
+   },
+   "order": 8,
+   "parentId": "1469",
+   "priority": 2,
+   "priorityName": "high",
+   "slug": "Autre",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "other",
+   "emergency": false,
+   "going_coming": false,
+   "icon": "2274e692-9070-487c-a2f6-f5f3af9babe8",
+   "id": "1470",
+   "name": {
+    "AR": "عاجل",
+    "EN": "Eating",
+    "FR": "Alimentaire",
+    "PT": "Comendo"
+   },
+   "order": 2,
+   "priority": 3,
+   "priorityName": "normal",
+   "slug": "Alimentaire",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "hotelier",
+   "emergency": false,
+   "going_coming": true,
+   "icon": "a5f33ba7-dbf4-42d5-88ee-a8ce0de79612",
+   "id": "1483",
+   "name": {
+    "AR": "أنا جائع",
+    "EN": "I'm hungry",
+    "FR": "J'ai faim",
+    "PT": "eu estou com fome"
+   },
+   "order": 1,
+   "parentId": "1470",
+   "priority": 3,
+   "priorityName": "normal",
+   "slug": "J'ai faim",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "hotelier",
+   "emergency": false,
+   "going_coming": true,
+   "icon": "3705f77e-58b6-4ead-abb1-e691e03e39ca",
+   "id": "1484",
+   "name": {
+    "AR": "أنا عطشان",
+    "EN": "I am thirsty",
+    "FR": "J'ai soif",
+    "PT": "Estou morrendo de sede"
+   },
+   "order": 2,
+   "parentId": "1470",
+   "priority": 3,
+   "priorityName": "normal",
+   "slug": "J'ai soif",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "other",
+   "emergency": false,
+   "going_coming": false,
+   "icon": "c832d0be-1d50-4831-bca0-73eec82c6db3",
+   "id": "1486",
+   "name": {
+    "AR": "آخر",
+    "EN": "Other",
+    "FR": "Autre",
+    "PT": "Outro"
+   },
+   "order": 4,
+   "parentId": "1470",
+   "priority": 2,
+   "priorityName": "high",
+   "slug": "Autre",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "paramedical",
+   "emergency": false,
+   "going_coming": true,
+   "icon": "31d770ce-bab3-42c3-b769-64916f45a62b",
+   "id": "1485",
+   "name": {
+    "AR": "الحقيبة الكهربائية",
+    "EN": "feeding pouch",
+    "FR": "Poche d'alimentation",
+    "PT": "Bolsa de comida"
+   },
+   "order": 3,
+   "parentId": "1470",
+   "priority": 3,
+   "priorityName": "normal",
+   "slug": "Poche d'alimentation",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "other",
+   "emergency": false,
+   "going_coming": false,
+   "icon": "737e36ae-1336-4976-8907-e45607193c8c",
+   "id": "1471",
+   "name": {
+    "AR": "حولي",
+    "EN": "Around me",
+    "FR": "Autour de moi",
+    "PT": "Ao meu redor"
+   },
+   "order": 3,
+   "priority": 3,
+   "priorityName": "normal",
+   "slug": "Autour de moi",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "medical",
+   "emergency": false,
+   "going_coming": true,
+   "icon": "7846706a-bacc-47c6-aed6-4ffe207c2beb",
+   "id": "1487",
+   "name": {
+    "AR": "تسريب",
+    "EN": "Infusion",
+    "FR": "Perfusion",
+    "PT": "Perfusão"
+   },
+   "order": 1,
+   "parentId": "1471",
+   "priority": 1,
+   "priorityName": "emergency",
+   "slug": "Perfusion",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "hotelier",
+   "emergency": false,
+   "going_coming": false,
+   "icon": "3144feca-10f6-4d10-9bfe-2c41d2f5de72",
+   "id": "1489",
+   "name": {
+    "AR": "غرفة نوم",
+    "EN": "Bedroom",
+    "FR": "Chambre",
+    "PT": "Quarto"
+   },
+   "order": 3,
+   "parentId": "1471",
+   "priority": 3,
+   "priorityName": "normal",
+   "slug": "Chambre",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "medical",
+   "emergency": false,
+   "going_coming": true,
+   "icon": "1049a62a-c731-4e28-8a72-ddb2aa8a009c",
+   "id": "1488",
+   "name": {
+    "AR": "الهباء الجوي",
+    "EN": "Aerosol",
+    "FR": "Aérosol",
+    "PT": "Aerossol"
+   },
+   "order": 2,
+   "parentId": "1471",
+   "priority": 2,
+   "priorityName": "high",
+   "slug": "Aérosol",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "other",
+   "emergency": false,
+   "going_coming": false,
+   "icon": "c832d0be-1d50-4831-bca0-73eec82c6db3",
+   "id": "1490",
+   "name": {
+    "AR": "آخر",
+    "EN": "Other",
+    "FR": "Autre",
+    "PT": "Outro"
+   },
+   "order": 4,
+   "parentId": "1471",
+   "priority": 2,
+   "priorityName": "high",
+   "slug": "Autre",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "other",
+   "emergency": false,
+   "going_coming": false,
+   "icon": "964f1cb8-41aa-4a66-bb44-9148f6b670c8",
+   "id": "1472",
+   "name": {
+    "AR": "أشكر مقدم الرعاية",
+    "EN": "Thank the caregiver",
+    "FR": "Remercier un soignant",
+    "PT": "Agradeça a um cuidador"
+   },
+   "order": 4,
+   "priority": 3,
+   "priorityName": "normal",
+   "slug": "Remercier un soignant",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "other",
+   "emergency": false,
+   "going_coming": false,
+   "icon": "c832d0be-1d50-4831-bca0-73eec82c6db3",
+   "id": "1473",
+   "name": {
+    "AR": "آخر",
+    "EN": "Other",
+    "FR": "Autre",
+    "PT": "Outro"
+   },
+   "order": 5,
+   "priority": 2,
+   "priorityName": "high",
+   "slug": "Autre",
+   "tags": [
+   ]
+  },
+  {
+   "categoryType": "medical",
+   "emergency": false,
+   "going_coming": false,
+   "icon": "dd63f0a0-da90-4e42-9e13-dceb2b68344a",
+   "id": "1474",
+   "name": {
+    "AR": "طارئة",
+    "EN": "Emergency",
+    "FR": "Urgence",
+    "PT": "Emergência"
+   },
+   "order": 6,
+   "priority": 1,
+   "priorityName": "emergency",
+   "slug": "Urgence",
+   "tags": [
+   ]
+  }
+ ]
+}
